@@ -1,4 +1,4 @@
-# 
+# Advanced Cubase filters for Mac OS | Native Cubase filters for PC Windows. Featuring time-remapping and real-time-preview — optimized for maximum performance on every platform.
 
 
 
